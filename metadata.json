@@ -1,0 +1,6 @@
+{
+  "name": "Partic",
+  "description": "A global AI-driven study planner that curates custom study guides, notes, and practice quizzes matched to country curricula worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
